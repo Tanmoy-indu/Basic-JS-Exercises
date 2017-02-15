@@ -24,7 +24,7 @@ console.log("Percentage Calculator:");
 
 
 
-/* ---------------------------
+/* -------------------------
 
 *** #2 Rotate String ***
 
